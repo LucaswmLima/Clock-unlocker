@@ -4,7 +4,7 @@
 
 ## 💻 Sobre o projeto
 
-<p>Programa desenvolvido em Python com a utlização de Selenium para automatizar a tarefa repetitiva e demorada de desbloquear relogios de ponto.</p>
+<p>Programa desenvolvido em Python com a utilização de Selenium para automatizar a tarefa repetitiva e demorada de desbloquear relogios de ponto.</p>
 
 ---
 
