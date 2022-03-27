@@ -26,7 +26,7 @@
 
 ## 🚀 Como executar o projeto
 
-Executar o aplicativo Clock Unlocker (Requer Google Chrome atualizado).
+Executar o aplicativo Clock Unlocker (Requer Google Chrome / Chromedriver atualizados na mesma versão).
 
 ---
 
