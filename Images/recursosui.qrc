@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Imagens">
+    <file>cadeado.png</file>
+    <file>Ico.ico</file>
+    <file>Icon.png</file>
+    <file>Logo.png</file>
+  </qresource>
+</RCC>
