@@ -10,9 +10,9 @@
 
 ## ⚙️ Funcionalidades
 
-- Realiza cálculo do IMC;
+- Realiza o desbloqueio de equipamentos Control ID e Henry;
 - Interface simples;
-- Fácil de utilizar.
+- Tarefa totamente automatica ao iniciar a operação.
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 🚀 Como executar o projeto
 
-Instalar o APK e executar em um aparelho Android ou iOS.
+Executar o aplicativo Clock Unlocker (Requer Google Chrome atualizado).
 
 ---
 
