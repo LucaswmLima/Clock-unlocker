@@ -19,7 +19,7 @@
 ## 📷 Imagens do projeto
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="Imagem - Clock Unlock" src="assets/screen1.png" width="400px">
+  <img alt="NextLevelWeek" title="Imagem - Clock Unlock" src="assets/screen1.jpg" width="400px">
 </p>
 
 ---
